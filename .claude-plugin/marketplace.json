@@ -1,0 +1,66 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sde-skills",
+  "version": "1.0.0",
+  "description": "80+ SDE skills and 40+ chained workflows across 9 plugins — system design, code quality, architecture, debugging, execution, MERN stack, testing, DevOps, and career growth. JavaScript-first with production-grade frameworks.",
+  "owner": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "plugins": [
+    {
+      "name": "sde-system-design",
+      "description": "Design scalable, resilient, production-grade systems from first principles. HLD methodology, capacity estimation, data modeling, API design, caching, message queues, distributed systems, and database selection.",
+      "source": "./sde-system-design",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-code-quality",
+      "description": "Write, review, and refactor code to production standards. PR review, refactoring patterns, code smells, SOLID principles, design patterns, testing strategy, performance profiling, and security review.",
+      "source": "./sde-code-quality",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-architecture",
+      "description": "Make durable architectural decisions. ADRs, migration planning, tech debt classification, service decomposition, resilience patterns, observability design, and event-driven architecture.",
+      "source": "./sde-architecture",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-debugging",
+      "description": "Find, fix, and prevent production issues. Root cause analysis, blameless postmortems, log analysis, performance debugging, memory leak detection, and incident response.",
+      "source": "./sde-debugging",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-execution",
+      "description": "Ship features with engineering rigor. INVEST tickets, three-point estimation, sprint planning, release notes, feature flags, deployment plans, and on-call runbooks.",
+      "source": "./sde-execution",
+      "category": "software-engineering"
+    },
+    {
+      "name": "mern-stack",
+      "description": "Build production-grade MERN applications. MongoDB schema design, Express APIs, middleware, Node.js patterns, React components, state management, hooks, JWT auth, security, testing, and deployment.",
+      "source": "./mern-stack",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-testing",
+      "description": "Test software with the right tests in the right places. Unit testing, integration testing, E2E with Playwright, TDD workflow, test data strategies, and contract testing for microservices.",
+      "source": "./sde-testing",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-devops",
+      "description": "Ship faster and safer. CI/CD pipelines with GitHub Actions, Docker multi-stage builds, Kubernetes basics, Terraform IaC, Prometheus monitoring, and secret management.",
+      "source": "./sde-devops",
+      "category": "software-engineering"
+    },
+    {
+      "name": "sde-career",
+      "description": "Level up as an engineer. Resume review, system design interview prep, behavioral prep, coding interview frameworks, 1:1 prep, promotion documents, tech spec writing, and feedback frameworks.",
+      "source": "./sde-career",
+      "category": "software-engineering"
+    }
+  ]
+}

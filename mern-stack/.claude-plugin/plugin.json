@@ -1,0 +1,11 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "Build production-grade MERN applications. MongoDB schema design, Express APIs and middleware, Node.js patterns, React components, state management, hooks, JWT auth, MERN security, testing, and deployment.",
+  "author": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "keywords": ["mern", "mongodb", "express", "react", "nodejs", "javascript", "jwt", "fullstack"],
+  "license": "MIT"
+}

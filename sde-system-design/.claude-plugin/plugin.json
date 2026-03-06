@@ -1,0 +1,17 @@
+{
+  "name": "sde-system-design",
+  "version": "1.0.0",
+  "description": "Design scalable, resilient, production-grade systems from first principles. HLD methodology, capacity estimation, data modeling, API design, caching, message queues, distributed systems, and database selection.",
+  "author": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "keywords": [
+    "software-engineering",
+    "system-design",
+    "architecture",
+    "scalability",
+    "distributed-systems"
+  ],
+  "license": "MIT"
+}

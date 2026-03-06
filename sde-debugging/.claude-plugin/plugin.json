@@ -1,0 +1,11 @@
+{
+  "name": "sde-debugging",
+  "version": "1.0.0",
+  "description": "Find, fix, and prevent production issues. Root cause analysis, blameless postmortems, log analysis, performance debugging, memory leak detection in Node.js, and incident response.",
+  "author": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "keywords": ["software-engineering", "debugging", "postmortem", "incident-response", "performance"],
+  "license": "MIT"
+}

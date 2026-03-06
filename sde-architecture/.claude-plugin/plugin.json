@@ -1,0 +1,17 @@
+{
+  "name": "sde-architecture",
+  "version": "1.0.0",
+  "description": "Make durable architectural decisions. ADRs, migration planning, tech debt classification, service decomposition (DDD), resilience patterns, observability design, and event-driven architecture.",
+  "author": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "keywords": [
+    "software-engineering",
+    "architecture",
+    "adr",
+    "microservices",
+    "resilience"
+  ],
+  "license": "MIT"
+}

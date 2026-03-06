@@ -1,0 +1,11 @@
+{
+  "name": "sde-execution",
+  "version": "1.0.0",
+  "description": "Ship features with engineering rigor. INVEST-ready technical tickets, three-point estimation, sprint planning, release notes, feature flags, deployment plans, and on-call runbooks.",
+  "author": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "keywords": ["software-engineering", "execution", "tickets", "estimation", "deployment"],
+  "license": "MIT"
+}

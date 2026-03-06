@@ -1,0 +1,17 @@
+{
+  "name": "sde-code-quality",
+  "version": "1.0.0",
+  "description": "Write, review, and refactor code to production standards. PR review across 7 dimensions, safe refactoring patterns, code smell detection, SOLID principles, design patterns, testing strategy, performance profiling, and security review.",
+  "author": {
+    "name": "SDE Skills",
+    "url": "https://github.com/yourusername/sde-skills"
+  },
+  "keywords": [
+    "software-engineering",
+    "code-quality",
+    "code-review",
+    "refactoring",
+    "security"
+  ],
+  "license": "MIT"
+}
