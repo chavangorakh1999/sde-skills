@@ -1,0 +1,22 @@
+{
+  "name": "sde-career",
+  "version": "1.0.0",
+  "description": "Career growth skills for software engineers: interview preparation, promotion planning, technical writing, feedback, and 1:1s.",
+  "skills": [
+    { "name": "resume-review", "path": "skills/resume-review/SKILL.md" },
+    { "name": "system-design-prep", "path": "skills/system-design-prep/SKILL.md" },
+    { "name": "behavioral-prep", "path": "skills/behavioral-prep/SKILL.md" },
+    { "name": "coding-interview-prep", "path": "skills/coding-interview-prep/SKILL.md" },
+    { "name": "1on1-prep", "path": "skills/1on1-prep/SKILL.md" },
+    { "name": "promotion-doc", "path": "skills/promotion-doc/SKILL.md" },
+    { "name": "tech-spec-writing", "path": "skills/tech-spec-writing/SKILL.md" },
+    { "name": "feedback-giving", "path": "skills/feedback-giving/SKILL.md" }
+  ],
+  "commands": [
+    { "name": "review-resume", "path": "commands/review-resume.md" },
+    { "name": "mock-design", "path": "commands/mock-design.md" },
+    { "name": "mock-behavioral", "path": "commands/mock-behavioral.md" },
+    { "name": "write-promo", "path": "commands/write-promo.md" },
+    { "name": "write-spec", "path": "commands/write-spec.md" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sde-devops",
+  "version": "1.0.0",
+  "description": "DevOps skills for software engineers: CI/CD pipelines, Docker, Kubernetes basics, infrastructure as code, monitoring/alerting, and secrets management.",
+  "skills": [
+    { "name": "ci-cd-pipeline", "path": "skills/ci-cd-pipeline/SKILL.md" },
+    { "name": "docker", "path": "skills/docker/SKILL.md" },
+    { "name": "kubernetes-basics", "path": "skills/kubernetes-basics/SKILL.md" },
+    { "name": "infrastructure-as-code", "path": "skills/infrastructure-as-code/SKILL.md" },
+    { "name": "monitoring-alerting", "path": "skills/monitoring-alerting/SKILL.md" },
+    { "name": "secret-management", "path": "skills/secret-management/SKILL.md" }
+  ],
+  "commands": [
+    { "name": "design-pipeline", "path": "commands/design-pipeline.md" },
+    { "name": "dockerize", "path": "commands/dockerize.md" },
+    { "name": "write-iac", "path": "commands/write-iac.md" }
+  ]
+}
